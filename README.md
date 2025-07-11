@@ -63,17 +63,14 @@
 
 ## 🌟 Featured Projects
 
-🔬 **Sweet Pumpkin Leaf Disease Detection using CNN**  
-CNN-based smart crop health classifier (Downy, Mosaic, Leaf Curl, Red Beetle).  
-🔗 [Explore Repository](#)
+🎓 **Bachelor's Thesis**  
+📌 **SWEET PUMPKIN LEAF DISEASE DETECTION APPROACH USING CNN**  
+Developed a Convolutional Neural Network (CNN)-based model for detecting common sweet pumpkin leaf diseases such as Downy Mildew, Mosaic, Leaf Curl, and Red Beetle. The system was trained on a custom-labeled dataset and achieved promising accuracy in early detection, enhancing decision support for farmers.
 
-📱 **AI Crop Disease Detector (Mobile)**  
-Model compressed with TensorFlow Lite for real-time mobile disease recognition.  
-🔗 [Explore Repository](#)
+🎓 **Master's Thesis**  
+📌 **SWEET PUMPKIN LEAF DISEASE DETECTION APPROACH WITH DEEP LEARNING ALGORITHM**  
+Extended the research by implementing advanced deep learning architectures, incorporating data augmentation, transfer learning, and multi-class classification. The study emphasized smart agriculture applications with a focus on real-world deployment and environmental sustainability using AI in disease prevention.
 
-🌾 **Smart Agri Toolkit (Open Source)**  
-Toolkit to simplify automated field monitoring using AI + sensors.  
-🔗 [Explore Repository](#)
 
 ---
 
